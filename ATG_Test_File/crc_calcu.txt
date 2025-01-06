@@ -1,0 +1,31 @@
+FF E5 F5 F7 E0 E0 E0 E3 FB E3 F0
+
+FF 
+E5 
+F4
+F7 
+E0 
+E0 
+E0 
+E3 
+FB 
+E3 
+F0
+
+
+8 4 2 1
+2 E
+2 D
+0010  1101 + 1 = 1110 EC
+
+FF 
+E6
+F7 
+E0 
+E0 
+E0 
+E3 
+FB 
+
+E3 
+F0

@@ -1,0 +1,94 @@
+FF E5 F4 F6 E4
+
+
+ff 
+f6 
+e0
+f9 e3 e9 e1 e7 e8 e7 e2 e1 fa e5 e2 e0 e6 e5 e3 e2 e0 f4 e0 e8 e2 e3 f5 e0 e0 e1 e0 f6 e1 f9 e0 e0 e0 e0 e0 e0 e0 e0 fa e0 e0 e0 e0 e0 e0 e0 e0 f4 e0 e0 e0 e0 f5 e0 e0 e0 e0 f6 e2 f9 e0 e0 e0 e0 e0 e0 e0 e0 fa e0 e0 e0 e0 e0 e0 e0 e0 f4 e0 e0 e0 e0 f5 e0 e0 e0 e0 fb e2 f0
+
+ff 
+f6 
+e0 grade 1
+f9 
+e2 e0 e8 e9 e9 e7 e2 e1 
+fa 
+e8 e9 e5 e9 e6 e7 e2 e0 
+f4 
+e0 e8  e2 e3 
+f5 
+e0 e0 e1 e0 
+
+f6
+e1 grade 2
+f9 
+e0 e0 e0 e0 e0 e0   e0 e0 
+fa 
+e0 e0 e0 e0 e0 e0 e0 e0 
+f4 
+e0 e0 e0 e0   
+f5
+e0 e0 e0 e0 
+
+f6 
+e2 grade 3
+f9 
+e0 e0 e0 e0 e0 e0 e0 e0 
+fa
+e0 e0 e0 e0 e0 e0 e0 e0 
+f4 
+e0 e0 e0 e0 
+f5
+e0 e0 e0 e0 
+
+fb eb f0
+
+
+//////////////////////
+
+ff 
+f6 
+e0 
+f9 
+e6 e3 e8 e8 e3 e1 e7 e4 
+fa 
+e9 e2 e0 e5 e9 e5 e2 e0 
+f4 
+e0 e4 e3 e3 
+f5 
+e0 e0 e1 e0 
+
+f6 
+e1 
+f9 
+e0 e0 e0 e0 e0 e0 e0 e0 
+fa 
+e0 e0 e0 e0 e0 e0 e0 e0 
+f4 
+e0 e0 e0 e0   
+f5 
+e0 e0 e0 e0
+
+f6 
+e2 
+f9
+e0 e0 e0 e0 e0 e0 e0 e0   
+fa 
+e0 e0 e0 e0 e0 e0 e0 e0 
+f4 
+e0 e0 e0 e0 
+f5 
+e0 e0 e0 e0 
+fb ea f0    
+
+
+
+
+00000000 ff f6 e0 f9 e6 e0 e8 e9   e9 e7 e2 e1 fa e0 e1 e7 	........  ........
+00000016 e9 e6 e7 e2 e0 f4 e0 e8   e2 e3 f5 e0 e0 e1 e0 f6 	........  ........
+00000032 e1 f9 e0 e0 e0 e0 e0 e0   e0 e0 fa e0 e0 e0 e0 e0 	........  ........
+00000048 e0 e0 e0 f4 e0 e0 e0 e0   f5 e0 e0 e0 e0 f6 e2 f9 	........  ........
+00000064 e0 e0 e0 e0 e0 e0 e0 e0   fa e0 e0 e0 e0 e0 e0 e0 	........  ........
+00000080 e0 f4 e0 e0 e0 e0 f5 e0   e0 e0 e0 fb e5 f0       	........  ......
+
+
+FF E5 F4 F6 E2 F7 E0 E0 08 BB 0B F0
